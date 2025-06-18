@@ -1,6 +1,6 @@
-# 🌿 The Ecological Researcher (TER) — Podcast Proposal
+# 🌿 *Earth to Research!* — Podcast Proposal
 
-**The Ecological Researcher (TER)** will be a five-episode podcast series exploring how environmental ethics and climate justice intersect with research practices. It will promote environmentally responsible research through interdisciplinary dialogue and storytelling, supporting the European project [RE4GREEN](https://re4green.eu).
+*Earth to Research!* will be a five-episode podcast series exploring how environmental ethics and climate justice intersect with research practices. It will promote environmentally responsible research through interdisciplinary dialogue and storytelling, supporting the European project [RE4GREEN](https://re4green.eu).
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## ✨ Approach
 
-TER will feature expert guests from fields like environmental ethics, sustainability science, and health equity. It will complement RE4GREEN’s training modules with stories, practical insights, and reflection.
+*Earth to Research!* will feature expert guests from fields like environmental ethics, sustainability science, and health equity. It will complement RE4GREEN’s training modules with stories, practical insights, and reflection.
 
 **Example episode →** Interview with [Dr. Josephine Chambers](https://www.uu.nl/staff/JMChambers) on positionality, co-production, and ethics in sustainability research.
 
@@ -65,7 +65,7 @@ TER will feature expert guests from fields like environmental ethics, sustainabi
 
 ## 🌟 Expected Impact
 
-TER aims to catalyze dialogue on researchers’ roles in the ecological crisis, providing inclusive, creative, open-access resources that will inspire institutional change.
+*Earth to Research!* aims to catalyze dialogue on researchers’ roles in the ecological crisis, providing inclusive, creative, open-access resources that will inspire institutional change.
 
 ---
 
