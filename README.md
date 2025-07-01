@@ -1,27 +1,36 @@
-# 🌿 *Earth to Research!* — Podcast Proposal
+# 🌿 *Earth to Research!* Podcast Mini-Series
 
-*Earth to Research!* will be a five-episode podcast series exploring how environmental ethics and climate justice intersect with research practices. It will promote environmentally responsible research through interdisciplinary dialogue and storytelling, supporting the European project [RE4GREEN](https://re4green.eu).
+In this podcast, we rethink approaches to research and innovation in times of ecological crisis through real-world examples.
+
+Are you interested in ways to align your research methods and research ethics with environmental justice?  
+Or perhaps you seek some practical tips on sustainable research practices.
+
+You have come to the right place. Whether you're a postgrad, postdoc, research assistant, or course coordinator, this is a space to examine our values and think creatively across disciplines.
+
+**Welcome to the community.**
 
 ---
 
 ## 🎯 Objectives
 
-- 🌍 Share strategies for integrating environmental awareness into research  
-- 💬 Create an inclusive platform for researchers, ethicists & the public  
+- 🌍 Share strategies for integrating environmental awareness into research
 - ⚖️ Promote responsible, just, and equitable research practices  
+- 💬 Create an inclusive platform, especially for early career researchers 
 - 📚 Develop open-access, adaptable resources
 
 ---
 
-## ✨ Approach
+## 🔑 Key Topics
 
-*Earth to Research!* will feature expert guests from fields like environmental ethics, sustainability science, and health equity. It will complement RE4GREEN’s training modules with stories, practical insights, and reflection.
-
-**Example episode →** Interview with [Dr. Josephine Chambers](https://www.uu.nl/staff/JMChambers) on positionality, co-production, and ethics in sustainability research.
+- 🖥️ **Digital accelerations and responses**: slow AI / Research, e-waste, digital futures  
+- 🧫 **Materials of research and innovation**: life cycle assessment, environmental monitoring  
+- 🧠 **Reimagining our role as researchers**: transformative research, positionality, eco-emotions  
+- 🤝 **Caring for planetary health**: engaging communities, gender, climate, intersectionality  
+- 🌱 **Expanding research ethics**: decolonizing research, situated knowledges, multispecies futures
 
 ---
 
-## 🔓 Open Science
+## 🔓 Open "Science"
 
 - Open access: Episodes, transcripts & resources  
 - Transparency: Timecoded transcripts & podcasting methods  
@@ -41,25 +50,24 @@
 ## 📢 Dissemination
 
 - Distribution via The Embassy of Good Science, Podbean, Acast, Spotify  
-- Social media promotion (LinkedIn, Bluesky)  
+- Social media promotion (LinkedIn, Bluesky, Instagram)  
 - Integration into RE4GREEN training (expected reach: 1,000+ by 2027)
 
 ---
 
-## 🗓️ Timeline
+## 🗓️ Timeline 2025
 
-- June–July → Finalize themes, invite guests  
-- August → Record pilot, gather feedback  
-- Sept–Jan → Record/produce episodes, prep materials  
-- Feb–Mar → Release episodes, launch outreach
+- May-June → Finalize themes, invite guests
+- June-Sept → Record five episodes
+- Sept-October → Release episodes, launch outreach
 
 ---
 
 ## 👩‍🔬 Project Team
 
 - **Lucy Sabin (Lead):** Amsterdam UMC, creative methods & environmental justice ([profile](https://lucyrose93.github.io/aerography/about.html))  
-- **Elena Lazutkaite (Co-host):** EUREC, sustainability & science communication ([profile](https://www.tmg-thinktank.com/speaker/elena-lazutkaite))
-- **Natalie Evans (Supervisor):** Amsterdam UMC, ethics & integrity ([profile](https://www.amsterdamumc.org/en/research/researchers/natalie-evans.htm))
+- **Elena Lazutkaite (Support):** EUREC, sustainability & science communication ([profile](https://www.tmg-thinktank.com/speaker/elena-lazutkaite))
+- **Natalie Evans (RE4GREEN WP Leader):** Amsterdam UMC, ethics & integrity ([profile](https://www.amsterdamumc.org/en/research/researchers/natalie-evans.htm))
 
 ---
 
@@ -69,4 +77,4 @@
 
 ---
 
-📂 **Note:** The repository file tree will include a *guide to podcasting* to help others adapt or extend this project.
+📂 **Note:** This project is part of the EU-funded project (RE4GREEN)[https://re4green.eu/] and is supported by (VU Open Science)[https://vu.nl/en/about-vu/more-about/vu-open-science-programme].
