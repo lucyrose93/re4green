@@ -30,7 +30,7 @@ You have come to the right place. Whether you're a postgrad, postdoc, research a
 
 ---
 
-## 🔓 Open "Science"
+## 🔓 Open Science
 
 - Open access: Episodes, transcripts & resources  
 - Transparency: Timecoded transcripts & podcasting methods  
@@ -77,4 +77,4 @@ You have come to the right place. Whether you're a postgrad, postdoc, research a
 
 ---
 
-📂 **Note:** This project is part of the EU-funded project (RE4GREEN)[https://re4green.eu/] and is supported by (VU Open Science)[https://vu.nl/en/about-vu/more-about/vu-open-science-programme].
+📂 **Note:** This project is part of the EU-funded project [RE4GREEN]([https://re4green.eu/) and is supported by [VU Open Science](https://vu.nl/en/about-vu/more-about/vu-open-science-programme).
