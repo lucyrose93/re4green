@@ -1,4 +1,8 @@
-# 🌿 *Earth to Research!* Podcast Mini-Series
+# 🌿 Podcast Mini-Series
+
+![Earth to research text against a colourful landscape](watercolour-logo.jpg)
+
+# 🐌 Welcome
 
 In this podcast, we rethink approaches to research and innovation in times of ecological crisis through real-world examples.
 
@@ -7,11 +11,11 @@ Or perhaps you seek some practical tips on sustainable research practices.
 
 You have come to the right place. Whether you're a postgrad, postdoc, research assistant, or course coordinator, this is a space to examine our values and think creatively across disciplines.
 
-**Welcome to the community.**
+_Welcome to the community._
 
 ---
 
-## 🎯 Objectives
+## ⛰️ Objectives
 
 - 🌍 Share strategies for integrating environmental awareness into research
 - ⚖️ Promote responsible, just, and equitable research practices  
@@ -30,7 +34,7 @@ You have come to the right place. Whether you're a postgrad, postdoc, research a
 
 ---
 
-## 🔓 Open Science
+## 📖 Open Science
 
 - Open access: Episodes, transcripts & resources  
 - Transparency: Timecoded transcripts & podcasting methods  
