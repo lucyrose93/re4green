@@ -1,6 +1,6 @@
 # 🌿 Podcast Mini-Series
 
-![Earth to research text against a colourful landscape](watercolour-logo.jpg)
+![Earth to research title text against a leafy backdrop](thumbnail.jpg)
 
 # 🐌 Welcome
 
@@ -77,7 +77,7 @@ _Welcome to the community._
 
 ## 🌟 Expected Impact
 
-*Earth to Research!* aims to catalyze dialogue on researchers’ roles in the ecological crisis, providing inclusive, creative, open-access resources that will inspire institutional change.
+*EARTH TO RESEARCH* aims to catalyze dialogue on researchers’ roles in the ecological crisis, providing inclusive, creative, open-access resources that will inspire institutional change.
 
 ---
 
