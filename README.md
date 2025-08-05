@@ -1,6 +1,6 @@
 # 🌿 Podcast Mini-Series
 
-![Earth to research text against a colourful landscape](watercolour-logo.jpg)
+![Earth to research text against a colourful landscape](thumbnail.jpg)
 
 # 🐌 Welcome
 
