@@ -1,6 +1,6 @@
 # 🌿 Podcast Mini-Series
 
-![Earth to research title text against a leafy backdrop](thumbnail.jpg)
+![Earth to research title text against a leafy backdrop](./images/thumbnail.jpg)
 
 # 🐌 Welcome
 
